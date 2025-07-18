@@ -1,0 +1,21 @@
+{
+  "name": "villan-theam",
+  "displayName": "villan-theam",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "villan-theam",
+        "uiTheme": "vs-dark",
+        "path": "./themes/villan-theam-color-theme.json"
+      }
+    ]
+  }
+}
