@@ -1,7 +1,7 @@
 {
   "name": "villan-theam",
-  "displayName": "villan-theam",
-  "description": "",
+  "displayName": "Villan Theam",
+  "description": "A dark, villain-inspired VS Code theme with custom fonts and ligatures.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.102.0"
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "villan-theam",
+        "label": "Villan Theam",
         "uiTheme": "vs-dark",
         "path": "./themes/villan-theam-color-theme.json"
       }
