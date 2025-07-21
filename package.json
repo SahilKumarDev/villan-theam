@@ -2,7 +2,7 @@
   "name": "villan-theam",
   "displayName": "Villan Theam",
   "description": "A dark, villain-inspired VS Code theme with custom fonts and ligatures.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "sahilkumardev",
   "engines": {
     "vscode": "^1.102.0"

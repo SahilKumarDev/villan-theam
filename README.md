@@ -1,4 +1,4 @@
-# chai-theme README
+# villan-theme README
 
 There are 2 versions of this theme
 
@@ -9,7 +9,7 @@ It took me around 1 year to analyse all these issues and finally publish this th
 
 ## Villan Dark
 
-![Dark Theme]()
+<!-- ![Dark Theme]() -->
 
 ### Features
 
@@ -28,7 +28,7 @@ Some font settings that I use:
 
 ## Villan Light
 
-![Dark Theme]()
+<!-- ![Dark Theme]() -->
 
 Light theme is for those folks who still love to work in light theme. You might attract bugs but hey, that's your choice.
 
