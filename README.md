@@ -1,16 +1,41 @@
-# villan-theam README
+# chai-theme README
 
-## Working with Markdown
+There are 2 versions of this theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+- **Villan Dark** (what I use)
+- **Villan Light** (these coders still exists)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+It took me around 1 year to analyse all these issues and finally publish this theme.
 
-## For more information
+## Villan Dark
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Dark Theme]()
 
-**Enjoy!**
+### Features
+
+- Highlights your active tab
+- Each language token is customized
+
+Some font settings that I use:
+
+```json
+  "editor.fontFamily": "Mono Lisa",
+  "editor.fontSize": 18,
+  "terminal.integrated.fontSize": 18,
+  "window.zoomLevel": 1,
+  "editor.wordWrap": "on",
+```
+
+## Villan Light
+
+![Dark Theme]()
+
+Light theme is for those folks who still love to work in light theme. You might attract bugs but hey, that's your choice.
+
+# About Author
+
+My Name is `Sahil kumar dev` and I make coding videos in English as well as Hindi language.
+
+My social media links:
+
+- []()

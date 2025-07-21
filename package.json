@@ -3,9 +3,22 @@
   "displayName": "Villan Theam",
   "description": "A dark, villain-inspired VS Code theme with custom fonts and ligatures.",
   "version": "0.0.1",
+  "publisher": "sahilkumardev",
   "engines": {
     "vscode": "^1.102.0"
   },
+  "repository": {
+    "type": "git",
+    "git": "https://github.com/SahilKumarDev/villan-theam"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "best dark theme",
+    "coder theme",
+    "villan theme",
+    "sahil kumar dev"
+  ],
   "categories": [
     "Themes"
   ],
