@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Villan Theam",
+        "label": "Villan Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/villan-theam-color-theme.json"
+        "path": "./themes/villan-dark.json"
+      },
+      {
+        "label": "Villan Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/villan-light.json"
       }
     ]
   }
